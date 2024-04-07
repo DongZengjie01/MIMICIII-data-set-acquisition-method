@@ -1,0 +1,8 @@
+1.获取CITI证书
+参考“获取CITI证书.docx”文件和
+“Data or Specimens Only Research（仅限数据或标本研究）课程的九套题答案”文件夹
+
+2.MIMIC账号注册
+参考“MIMIC账号注册.docx”
+如果其中注册PysionNet账户环节失败，可以参考“pysioNet网站注册.docx”，采用另一种方法注册
+
